@@ -11,7 +11,7 @@
 <table>
   <tr>
     <td colspan="2">
-      <h3>Hey there! I’m Ricardo <img src="assets/icons/waving-hand.png" alt="Waving hand" width="28" height="28" /></h3>
+      <h3>Hey there! I’m Ricardo <img src="assets/icons/cosmic-wave.png" alt="Cosmic waving hand" width="36" height="36" /></h3>
     </td>
   </tr>
   <tr>
