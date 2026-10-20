@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ricardious?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_WORK-161b22?style=flat-square&logo=github&logoColor=ffffff" alt="Explore my repositories" /></a>
+  <a href="https://github.com/ricardious?tab=repositories"><img src="https://img.shields.io/badge/Repositories-%23121011.svg?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore my repositories" /></a>
   &nbsp;
-  <a href="https://github.com/ricardious?tab=stars"><img src="https://img.shields.io/badge/THINGS_THAT_INSPIRE_ME-161b22?style=flat-square&logo=github&logoColor=ffffff" alt="Explore my starred repositories" /></a>
+  <a href="https://github.com/ricardious?tab=stars"><img src="https://img.shields.io/badge/Favorites-%23121011.svg?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore my starred repositories" /></a>
 </p>
 
 <table>
